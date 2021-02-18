@@ -6,9 +6,8 @@ Licenciatura en Diseño - Universidad Austral
 
 **UNIDADES TEMÁTICAS, CONTENIDOS, BIBLIOGRAFÍA BÁSICA POR UNIDAD TEMÁTICA**
 
-**Unidad 1: Introducción a las tecnologías contemporáneas**  
+### Unidad 1: Introducción a las tecnologías contemporáneas  
 En esta unidad se busca poner en conocimiento sobre el estado actual del uso de tecnologías, métodos de abordaje a problemáticas y formas de intercambio entre diferentes participantes de las comunidades online. Trataremos temas como open software, open hardware, herramientas y técnicas para uso de la web y la revolución de las pantallas. También será un tema transversal la ética de la tecnología y del rol del diseñador en ella.
-
 
 Bibliografía obligatoria:
 - Manovich, L. (2013). El software toma el mando (pp. 15-26). Barcelona: Editorial UOC.
@@ -19,10 +18,8 @@ Bibliografía obligatoria:
 Bibliografía complementaria: 
 - Kozak, C., &; Castromán, E. (2015). Tecnopoéticas argentinas: Archivo blando de arte y tecnología. Buenos Aires: Caja Negra.
 
-
-**Unidad 2: Buscando la nueva percepción**  
+### Unidad 2: Buscando la nueva percepción  
 En esta segunda unidad vamos plantear proyectos y debates sobre los usos y la creación de las imágenes en la actualidad. Varios referentes del arte contemporáneo harán de guía para esta discusión e intentaremos encontrar una manera de comunicar con las imágenes/sonidos que abundan en la red. Algunos tópicos serán: retratos, paisaje, found footage, cine, video experimental y arte generativo.
-
 
 Bibliografía obligatoria:
 - La vanguardia como software, Lev Manovich
@@ -31,7 +28,7 @@ Bibliografía obligatoria:
 Bibliografía complementaria: 
 - Demand, Thomas, Ferguson, R., Griffin, J., Lange, C., Erlinger, R., McClean, D., Smith, A. & McEwan, I. (2016). L'image volée. Milan: Fondazione Prada.
 
-**Unidad 3: Interacción**  
+### Unidad 3: Interacción  
 En esta unidad entraremos en la programación para poder entender el funcionamiento de la creación a partir de la interacción del usuario. Comprenderemos el funcionamiento de sensores y desarrollaremos diferentes trabajos prácticos en la web utilizando imágenes, sonido y video.
 
 Bibliografía obligatoria:
@@ -57,7 +54,7 @@ Bibliografía complementaria:
 ---
 ## CONDICIONES DE CURSADA
 
-**RECURSOS METODOLÓGICOS:**  
+### RECURSOS METODOLÓGICOS:  
 Los contenidos temáticos se desarrollan en horario de clases, se debaten y se ejercitan en el espacio del aula. Se combinarán instancias expositivas a cargo de los docentes con ejercicios prácticos, investigación, creación, análisis de casos y exposición finales de reflexiones generadas a través de debates grupales y/o por escrito. La bibliografía de la materia se encontrará detallada y disponible en el campus virtual y los comunicados pertinentes se realizarán a través del email de la cátedra, con el debido tiempo de antelación para garantizar que el contenido se encuentre a disposición de todo el alumnado.
 
 Los trabajos prácticos se entregarán en la fecha indicada por el equipo docente, a través del campus virtual, o bien se elaborarán durante la clase y se presentarán ese mismo día. Se considerará ausente, sin excepción, a quien no los haya presentado o rendido en la fecha indicada; en este caso, deberá presentarse en el período de recuperación indicado para cada instancia. 
@@ -68,7 +65,7 @@ Cada estudiante contará con una bitácora web para registrar los avances de con
 
 La cátedra atenderá consultas en forma presencial al finalizar cada clase. Oportunamente, se atenderán consultas a través del email de la cátedra, de lunes a viernes y hasta las 18h.
 
-**CRITERIOS DE EVALUACIÓN GENERALES:**  
+### CRITERIOS DE EVALUACIÓN GENERALES:  
 Los criterios de evaluación generales se organizan de la siguiente manera: 
 
 1. Análisis crítico de las fuentes analizadas y elaboración de argumentos.
@@ -84,7 +81,7 @@ Tener el 100% de los trabajos prácticos presentados y aprobados, según las con
 Aprobar todos los trabajos prácticos de entregas de carácter obligatorio e individual con una nota mínima de 4 (cuatro). El mismo incluye todos los contenidos que se explicitan en el presente Programa. 
 Aprobar el trabajo final con una nota mínima de 4 (cuatro).
 
-**CALIFICACIONES:**  
+### CALIFICACIONES:  
 La aprobación de la cursada debe realizarse con nota igual o superior a 4 (cuatro), que resultará del promedio de las notas 1, 2, 3, 4, 5 y 6.  
 **Nota 1:** Trabajo práctico de la unidad 1  
 **Nota 2:** Trabajo práctico de la unidad 2  
