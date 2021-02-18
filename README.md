@@ -2,6 +2,9 @@
 
 Licenciatura en Diseño - Universidad Austral
 
+* toc
+
+### Sobre la materia  
 La asignatura pertenece al eje de Medios Expresivos y Tecnologías. En esta tercera parte de la materia se tratarán temas relacionados con nuevas prácticas del diseño. Haciendo hincapié en las tecnologías contemporáneas y dejando una mirada al futuro. 
 El constante desarrollo de las nuevas tecnologías y métodos para procesar la información con las que convivimos dia a dia nos llevan a actualizar de manera constante la forma de creación de piezas para explayar nuestras ideas/proyectos.
 En la materia veremos diversos referentes de los temas en cuestión a cada unidad como modo de despertar y entender formas amplias de aplicar el diseño. Entendemos que es fundamental empezar a ser productores de tecnologías para el diseño, para dejar de ser solo consumidores. 
