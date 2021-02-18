@@ -53,3 +53,50 @@ Bibliografía obligatoria:
 
 Bibliografía complementaria: 
 - Parente, A. (2012). Las virtualidades de la imagen panorámica, en Territorios audiovisuales (ed. La Ferla, Jorge; Reynal Sofía, trad. Gustavo Zappa). Buenos Aires: Libraria.
+
+---
+## CONDICIONES DE CURSADA
+
+**RECURSOS METODOLÓGICOS:**  
+(incluir modalidad y lugares de prácticas, modalidad de supervisión y de evaluación)
+
+Los contenidos temáticos se desarrollan en horario de clases, se debaten y se ejercitan en el espacio del aula. Se combinarán instancias expositivas a cargo de los docentes con ejercicios prácticos, investigación, creación, análisis de casos y exposición finales de reflexiones generadas a través de debates grupales y/o por escrito. La bibliografía de la materia se encontrará detallada y disponible en el campus virtual y los comunicados pertinentes se realizarán a través del email de la cátedra, con el debido tiempo de antelación para garantizar que el contenido se encuentre a disposición de todo el alumnado.
+
+Los trabajos prácticos se entregarán en la fecha indicada por el equipo docente, a través del campus virtual, o bien se elaborarán durante la clase y se presentarán ese mismo día. Se considerará ausente, sin excepción, a quien no los haya presentado o rendido en la fecha indicada; en este caso, deberá presentarse en el período de recuperación indicado para cada instancia. 
+
+El rótulo de cada trabajo deberá ser el siguiente: Apellido-TP1-2021. En caso de que las entregas sean grupales se pondrán todos los apellidos en el archivo, en orden alfabético. Para la aprobación de la cursada es indispensable la presentación del total de los ejercicios y trabajos prácticos en tiempo y forma. La presentación deberá estar completa y responder al formato indicado por el docente en cada ocasión. 
+
+Cada estudiante contará con una bitácora web para registrar los avances de consignas, trabajos prácticos individuales y sus aportaciones a los trabajos prácticos grupales.
+
+La cátedra atenderá consultas en forma presencial al finalizar cada clase. Oportunamente, se atenderán consultas a través del email de la cátedra, de lunes a viernes y hasta las 18h.
+
+**CRITERIOS DE EVALUACIÓN GENERALES:**  
+
+Los criterios de evaluación generales se organizan de la siguiente manera: 
+
+Análisis crítico de las fuentes analizadas y elaboración de argumentos.
+Calidad del registro visual, sonoro y/o audiovisual de los ejercicios, trabajos prácticos y trabajo final
+Proactividad durante la cursada y nivel de participación individual en los trabajos grupales.
+Cumplimiento de las consignas de los trabajos prácticos.
+Calidad y originalidad en la presentación de los trabajos prácticos.
+
+
+**RÉGIMEN DE EVALUACIÓN Y APROBACIÓN DE LA MATERIA:**  
+(Revisar el reglamento de alumnos para orientar su elaboración)
+
+Para aprobar la asignatura es requisito obligatorio: 
+Tener el 100% de los trabajos prácticos presentados y aprobados, según las consignas y objetivos de los mismos. 
+Aprobar todos los trabajos prácticos de entregas de carácter obligatorio e individual con una nota mínima de 4 (cuatro). El mismo incluye todos los contenidos que se explicitan en el presente Programa. 
+Aprobar el trabajo final con una nota mínima de 4 (cuatro).
+
+**CALIFICACIONES:**  
+
+La aprobación de la cursada debe realizarse con nota igual o superior a 4 (cuatro), que resultará del promedio de las notas 1, 2, 3, 4, 5 y 6 
+Nota 1. Trabajo práctico de la unidad 1
+Nota 2. Trabajo práctico de la unidad 2
+Nota 3. Trabajo práctico de la unidad 3
+Nota 4. Trabajo práctico de la unidad 4
+Nota 5. Trabajo práctico final.
+Nota 6. Conceptual. Refleja el desempeño y la actitud del estudiante durante la cursada. 
+
+Aquellos alumnos cuyo promedio de cursada sea inferior a 4 (cuatro) no podrán presentarse a la instancia final y deberán recursar la materia. La aprobación de la cursada no garantiza la aprobación de la materia. La misma quedará estipulada luego de la presentación final. Para aprobar la materia, el alumno deberá aprobar ambas instancias de evaluación (la evaluación de la cursada y la presentación final) con nota igual o mayor a 4 (cuatro).
