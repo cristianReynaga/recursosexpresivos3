@@ -4,8 +4,6 @@ Licenciatura en Diseño - Universidad Austral
 
 ## PROGRAMA
 
-**UNIDADES TEMÁTICAS, CONTENIDOS, BIBLIOGRAFÍA BÁSICA POR UNIDAD TEMÁTICA**
-
 ### Unidad 1: Introducción a las tecnologías contemporáneas  
 En esta unidad se busca poner en conocimiento sobre el estado actual del uso de tecnologías, métodos de abordaje a problemáticas y formas de intercambio entre diferentes participantes de las comunidades online. Trataremos temas como open software, open hardware, herramientas y técnicas para uso de la web y la revolución de las pantallas. También será un tema transversal la ética de la tecnología y del rol del diseñador en ella.
 
