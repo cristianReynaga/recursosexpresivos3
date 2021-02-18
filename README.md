@@ -1,8 +1,6 @@
 # Recursos Expresivos 3
----
 
 ## Licenciatura en Diseño - Universidad Austral
----
 
 ## PROGRAMA
 
