@@ -2,7 +2,7 @@
 
 Licenciatura en Diseño - Universidad Austral
 
-* toc
+* toc  
 {:toc}  
 
 ### Sobre la materia  
