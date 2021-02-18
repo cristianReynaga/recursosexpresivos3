@@ -1,6 +1,6 @@
 # Recursos Expresivos 3
 
-## Licenciatura en Diseño - Universidad Austral
+Licenciatura en Diseño - Universidad Austral
 
 ## PROGRAMA
 
@@ -58,8 +58,6 @@ Bibliografía complementaria:
 ## CONDICIONES DE CURSADA
 
 **RECURSOS METODOLÓGICOS:**  
-(incluir modalidad y lugares de prácticas, modalidad de supervisión y de evaluación)
-
 Los contenidos temáticos se desarrollan en horario de clases, se debaten y se ejercitan en el espacio del aula. Se combinarán instancias expositivas a cargo de los docentes con ejercicios prácticos, investigación, creación, análisis de casos y exposición finales de reflexiones generadas a través de debates grupales y/o por escrito. La bibliografía de la materia se encontrará detallada y disponible en el campus virtual y los comunicados pertinentes se realizarán a través del email de la cátedra, con el debido tiempo de antelación para garantizar que el contenido se encuentre a disposición de todo el alumnado.
 
 Los trabajos prácticos se entregarán en la fecha indicada por el equipo docente, a través del campus virtual, o bien se elaborarán durante la clase y se presentarán ese mismo día. Se considerará ausente, sin excepción, a quien no los haya presentado o rendido en la fecha indicada; en este caso, deberá presentarse en el período de recuperación indicado para cada instancia. 
@@ -71,26 +69,22 @@ Cada estudiante contará con una bitácora web para registrar los avances de con
 La cátedra atenderá consultas en forma presencial al finalizar cada clase. Oportunamente, se atenderán consultas a través del email de la cátedra, de lunes a viernes y hasta las 18h.
 
 **CRITERIOS DE EVALUACIÓN GENERALES:**  
-
 Los criterios de evaluación generales se organizan de la siguiente manera: 
 
-Análisis crítico de las fuentes analizadas y elaboración de argumentos.
-Calidad del registro visual, sonoro y/o audiovisual de los ejercicios, trabajos prácticos y trabajo final
-Proactividad durante la cursada y nivel de participación individual en los trabajos grupales.
-Cumplimiento de las consignas de los trabajos prácticos.
-Calidad y originalidad en la presentación de los trabajos prácticos.
+1. Análisis crítico de las fuentes analizadas y elaboración de argumentos.
+2. Calidad del registro visual, sonoro y/o audiovisual de los ejercicios, trabajos prácticos y trabajo final
+3. Proactividad durante la cursada y nivel de participación individual en los trabajos grupales.
+4. Cumplimiento de las consignas de los trabajos prácticos.
+5. Calidad y originalidad en la presentación de los trabajos prácticos.
 
 
 **RÉGIMEN DE EVALUACIÓN Y APROBACIÓN DE LA MATERIA:**  
-(Revisar el reglamento de alumnos para orientar su elaboración)
-
 Para aprobar la asignatura es requisito obligatorio: 
 Tener el 100% de los trabajos prácticos presentados y aprobados, según las consignas y objetivos de los mismos. 
 Aprobar todos los trabajos prácticos de entregas de carácter obligatorio e individual con una nota mínima de 4 (cuatro). El mismo incluye todos los contenidos que se explicitan en el presente Programa. 
 Aprobar el trabajo final con una nota mínima de 4 (cuatro).
 
 **CALIFICACIONES:**  
-
 La aprobación de la cursada debe realizarse con nota igual o superior a 4 (cuatro), que resultará del promedio de las notas 1, 2, 3, 4, 5 y 6 
 Nota 1. Trabajo práctico de la unidad 1
 Nota 2. Trabajo práctico de la unidad 2
