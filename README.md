@@ -78,7 +78,7 @@ Los criterios de evaluación generales se organizan de la siguiente manera:
 5. Calidad y originalidad en la presentación de los trabajos prácticos.
 
 
-**RÉGIMEN DE EVALUACIÓN Y APROBACIÓN DE LA MATERIA:**  
+### RÉGIMEN DE EVALUACIÓN Y APROBACIÓN DE LA MATERIA:  
 Para aprobar la asignatura es requisito obligatorio: 
 Tener el 100% de los trabajos prácticos presentados y aprobados, según las consignas y objetivos de los mismos. 
 Aprobar todos los trabajos prácticos de entregas de carácter obligatorio e individual con una nota mínima de 4 (cuatro). El mismo incluye todos los contenidos que se explicitan en el presente Programa. 
