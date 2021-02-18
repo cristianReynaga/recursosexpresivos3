@@ -86,11 +86,11 @@ Aprobar el trabajo final con una nota mínima de 4 (cuatro).
 
 **CALIFICACIONES:**  
 La aprobación de la cursada debe realizarse con nota igual o superior a 4 (cuatro), que resultará del promedio de las notas 1, 2, 3, 4, 5 y 6 
-Nota 1. Trabajo práctico de la unidad 1
-Nota 2. Trabajo práctico de la unidad 2
-Nota 3. Trabajo práctico de la unidad 3
-Nota 4. Trabajo práctico de la unidad 4
-Nota 5. Trabajo práctico final.
-Nota 6. Conceptual. Refleja el desempeño y la actitud del estudiante durante la cursada. 
+**Nota 1:** Trabajo práctico de la unidad 1
+**Nota 2:** Trabajo práctico de la unidad 2
+**Nota 3:** Trabajo práctico de la unidad 3
+**Nota 4:** Trabajo práctico de la unidad 4
+**Nota 5:** Trabajo práctico final.
+**Nota 6:** Conceptual. Refleja el desempeño y la actitud del estudiante durante la cursada. 
 
 Aquellos alumnos cuyo promedio de cursada sea inferior a 4 (cuatro) no podrán presentarse a la instancia final y deberán recursar la materia. La aprobación de la cursada no garantiza la aprobación de la materia. La misma quedará estipulada luego de la presentación final. Para aprobar la materia, el alumno deberá aprobar ambas instancias de evaluación (la evaluación de la cursada y la presentación final) con nota igual o mayor a 4 (cuatro).
