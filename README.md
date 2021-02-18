@@ -85,7 +85,7 @@ Aprobar todos los trabajos prácticos de entregas de carácter obligatorio e ind
 Aprobar el trabajo final con una nota mínima de 4 (cuatro).
 
 **CALIFICACIONES:**  
-La aprobación de la cursada debe realizarse con nota igual o superior a 4 (cuatro), que resultará del promedio de las notas 1, 2, 3, 4, 5 y 6 
+La aprobación de la cursada debe realizarse con nota igual o superior a 4 (cuatro), que resultará del promedio de las notas 1, 2, 3, 4, 5 y 6.  
 **Nota 1:** Trabajo práctico de la unidad 1  
 **Nota 2:** Trabajo práctico de la unidad 2  
 **Nota 3:** Trabajo práctico de la unidad 3    
