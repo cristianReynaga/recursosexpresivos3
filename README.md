@@ -2,6 +2,26 @@
 
 Licenciatura en Diseño - Universidad Austral
 
+La asignatura pertenece al eje de Medios Expresivos y Tecnologías. En esta tercera parte de la materia se tratarán temas relacionados con nuevas prácticas del diseño. Haciendo hincapié en las tecnologías contemporáneas y dejando una mirada al futuro. 
+El constante desarrollo de las nuevas tecnologías y métodos para procesar la información con las que convivimos dia a dia nos llevan a actualizar de manera constante la forma de creación de piezas para explayar nuestras ideas/proyectos.
+En la materia veremos diversos referentes de los temas en cuestión a cada unidad como modo de despertar y entender formas amplias de aplicar el diseño. Entendemos que es fundamental empezar a ser productores de tecnologías para el diseño, para dejar de ser solo consumidores. 
+Para esto veremos conceptos y metodologías para la realización de proyectos desde el desarrollo de interfaces de uso y procesos de interacción.
+
+**Objetivos generales:**  
+Conocer y aplicar los recursos expresivos y tecnológicos necesarios para diseñar contenidos significativos, sonoros, audiovisuales e instalativos..         
+Reflexionar sobre el alcance de la creación audiovisual y el uso de la tecnología en función de un desarrollo sostenible, como un servicio a la persona y a la sociedad, como una poderosa herramienta de cambio e impacto social. 
+Entender los límites de las diferentes tecnologías y sus usos.
+Conocer diferentes referentes que utilizan las técnicas de las unidades.
+Habilitar la adquisición, almacenamiento  y procesamiento de datos a través de la programación como insumos para el diseño de experiencias digitales y analógicas con un abordaje transdisciplinar.
+Articular la investigación de usuarios para detectar oportunidades de mejora de su experiencia o entorno a partir del diseño de información específica.
+
+**Objetivos actitudinales:**  
+Reconocer la importancia del diseño en el uso responsable de datos e información 
+Desarrollar una actitud empática con las necesidades de las personas usuarias para incorporarlas en las prácticas proyectuales
+Valorar las correcciones y modificaciones como parte fundamental del diseño basado en datos y usuarios específicos
+
+---
+
 ## PROGRAMA
 
 ### Unidad 1: Introducción a las tecnologías contemporáneas  
