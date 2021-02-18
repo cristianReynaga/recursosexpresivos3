@@ -1,9 +1,6 @@
 # Recursos Expresivos 3
 
-Licenciatura en Diseño - Universidad Austral
-
-* toc  
-{:toc}  
+Licenciatura en Diseño - Universidad Austral 
 
 ### Sobre la materia  
 La asignatura pertenece al eje de Medios Expresivos y Tecnologías. En esta tercera parte de la materia se tratarán temas relacionados con nuevas prácticas del diseño. Haciendo hincapié en las tecnologías contemporáneas y dejando una mirada al futuro. 
